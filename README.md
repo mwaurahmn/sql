@@ -1,6 +1,8 @@
 # SQL Showcase
 
-The purpose of the project is to showcase my ability in using SQL to tackle business challenges.
+The purpose of the project is to showcase my ability in using SQL to tackle business challenges. 
+
+`sql_application.ipynb` is the main notebook documenting the work done.
 
 ## Cases Tackled:
 - Selecting albums to purchase
